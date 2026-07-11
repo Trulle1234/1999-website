@@ -14,6 +14,6 @@ _The website as shown in Internet Explorer 5 on Windows 98_
 ## To run locally clone and open `home.html`
 
 ```bash
-git https://github.com/Trulle1234/1999-website
+git clone https://github.com/Trulle1234/1999-website
 cd 1999-website
 ```
