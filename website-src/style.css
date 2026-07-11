@@ -32,3 +32,7 @@ font-family: "Wingdings";
 .webds {
 font-family: "Webdings";
 }
+
+.buttons a {
+text-decoration: none;
+}
