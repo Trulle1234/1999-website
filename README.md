@@ -1,6 +1,6 @@
 # 1999-website
 
-A "port" of my website made for _[Like it's 1999](https://99.hackclub.com/)_.
+A "port" of my website made for _[Like it's 1999](https://99.hackclub.com/)_. It is made entirely (exept for 88x31 buttons) in Windows 98 using EditPlus for code and Intenet Explorer to veiw.
 
 <img
   src="https://cdn.hackclub.com/019f5268-23e0-7044-98fa-950b6b936508/1999.gif"
